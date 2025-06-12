@@ -1,11 +1,46 @@
 {
-    "docs_name": "Công trình thủy lợi Phai Cây Ngõa - Hồ sơ hoàn công 2019_0001.pdf",
-    "id": 3695218979,
-    "data": [
-        {
-            "file_name": "example_name",
-            "number_page": "1-2",
-            "type": "example_type"
-        }
-    ]
+  "docs_name": "Công trình thủy lợi Phai Cây Ngõa - Hồ sơ hoàn công 2019_0001.pdf",
+  "id": 4235,
+  "data": [
+    {
+      "file_name": "Hợp đồng tư vấn",
+      "number_page": "2-5",
+      "type": "Hợp đồng"
+    },
+    {
+      "file_name": "Quyết định phê duyệt",
+      "number_page": "13-34, 78-84, 94-104, 110-114",
+      "type": "Quyết định"
+    },
+    {
+      "file_name": "Biên bản thường thảo hợp đồng",
+      "number_page": "35-43",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Báo cáo thẩm định",
+      "number_page": "47-52, 85-93, 105-109",
+      "type": "Báo cáo"
+    },
+    {
+      "file_name": "Hợp đồng",
+      "number_page": "56-76",
+      "type": "Báo cáo"
+    },
+    {
+      "file_name": "Hồ sơ quản lý chất lượng công trình",
+      "number_page": "78-80",
+      "type": "Hồ sơ"
+    },
+    {
+      "file_name": "Biên bản nghiệm thu",
+      "number_page": "115-187",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Nhật ký thi công",
+      "number_page": "188-221",
+      "type": "Báo cáo"
+    }
+  ]
 }

@@ -1,11 +1,31 @@
 {
     "docs_name": "Công trình thủy lợi Ngòi Yếng, xã Vân Hội, Trấn Yên - Hs Ql chất lượng công trình_0001.pdf",
-    "id": 1895100905,
+    "id": 1290,
     "data": [
         {
-            "file_name": "example_name",
-            "number_page": "1-2",
-            "type": "example_type"
+            "file_name": "Thông báo kết quả kiểm tra công tác nghiệm thu hoàn thành hạng mục công trình",
+            "number_page": "2-11",
+            "type": "Thông báo"
+        },
+        {
+            "file_name": "Quyết định phê duyệt",
+            "number_page": "12-33",
+            "type": "Quyết định"
+        },
+        {
+            "file_name": "Hợp đồng thi công xây dựng",
+            "number_page": "34-61",
+            "type": "Hợp đồng"
+        },
+        {
+            "file_name": "Biên bản nghiệm thu",
+            "number_page": "62-89, 176-242",
+            "type": "Biên bản"
+        },
+        {
+            "file_name": "Hồ sơ quản lý chất lượng công trình",
+            "number_page": "90-175",
+            "type": "Hợp đồng"
         }
     ]
 }

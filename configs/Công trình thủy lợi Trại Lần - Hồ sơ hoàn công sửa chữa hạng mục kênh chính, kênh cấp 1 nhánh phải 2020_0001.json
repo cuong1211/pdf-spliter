@@ -1,11 +1,36 @@
 {
-    "docs_name": "Công trình thủy lợi Trại Lần - Hồ sơ hoàn công sửa chữa hạng mục kênh chính, kênh cấp 1 nhánh phải 2020_0001.pdf",
-    "id": 2725613847,
-    "data": [
-        {
-            "file_name": "example_name",
-            "number_page": "1-2",
-            "type": "example_type"
-        }
-    ]
+  "docs_name": "Công trình thủy lợi Trại Lần - Hồ sơ hoàn công sửa chữa hạng mục kênh chính, kênh cấp 1 nhánh phải 2020_0001.pdf",
+  "id": 4241,
+  "data": [
+    {
+      "file_name": "Quyết định phê duyệt",
+      "number_page": "2-6, 13-16, 24-27, 48-51",
+      "type": "Quyết định"
+    },
+    {
+      "file_name": "Báo cáo thẩm định",
+      "number_page": "7-12",
+      "type": "Báo cáo"
+    },
+    {
+      "file_name": "Biên bản thương thảo hợp đồng",
+      "number_page": "19-23",
+      "type": "Hồ sơ"
+    },
+    {
+      "file_name": "Hợp đồng thi công xây dựng",
+      "number_page": "28-47",
+      "type": "Hợp đồng"
+    },
+    {
+      "file_name": "Biên bản nghiệm thu",
+      "number_page": "52-129",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Nhật ký thi công",
+      "number_page": "130-185",
+      "type": "Báo cáo"
+    }
+  ]
 }
