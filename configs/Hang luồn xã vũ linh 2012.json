@@ -1,11 +1,31 @@
 {
-    "docs_name": "Hang luồn xã vũ linh 2012.pdf",
-    "id": 1051796895,
-    "data": [
-        {
-            "file_name": "example_name",
-            "number_page": "1-2",
-            "type": "example_type"
-        }
-    ]
+  "docs_name": "Hang luồn xã vũ linh 2012.pdf",
+  "id": 4009,
+  "data": [
+    {
+      "file_name": "Hồ sơ thanh toán sửa chữa công trình",
+      "number_page": "1-6",
+      "type": "Hồ sơ thanh toán"
+    },
+    {
+      "file_name": "Hợp đồng tư vấn khảo sát, lập báo cáo kinh tế kỹ thuật",
+      "number_page": "7-13",
+      "type": "Hợp đồng"
+    },
+    {
+      "file_name": "Hợp đồng thực hiện gói thầu số 02",
+      "number_page": "14-20",
+      "type": "Hợp đồng"
+    },
+    {
+      "file_name": "Biên bản nghiệm thu",
+      "number_page": "21-33",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Hợp đồng thi công xây dựng",
+      "number_page": "34-42",
+      "type": "Hợp đồng"
+    }
+  ]
 }

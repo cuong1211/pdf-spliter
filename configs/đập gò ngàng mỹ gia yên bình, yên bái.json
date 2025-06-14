@@ -1,11 +1,31 @@
 {
-    "docs_name": "đập gò ngàng mỹ gia yên bình, yên bái.pdf",
-    "id": 314642980,
-    "data": [
-        {
-            "file_name": "example_name",
-            "number_page": "1-2",
-            "type": "example_type"
-        }
-    ]
+  "docs_name": "đập gò ngàng mỹ gia yên bình, yên bái.pdf",
+  "id": 3942,
+  "data": [
+    {
+      "file_name": "Biên bản nghiệm thu",
+      "number_page": "2-11",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Quyết định phê duyệt",
+      "number_page": "16-21, 27-30",
+      "type": "Quyết định"
+    },
+    {
+      "file_name": "Biên bản thương thảo hợp đồng",
+      "number_page": "22-26",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Hợp đồng thi công xây dựng",
+      "number_page": "32-61",
+      "type": "Hợp đồng"
+    },
+    {
+      "file_name": "Bản vẽ hoàn công",
+      "number_page": "62-67",
+      "type": "Bản vẽ hoàn công"
+    }
+  ]
 }

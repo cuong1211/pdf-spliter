@@ -1,11 +1,51 @@
 {
     "docs_name": "đập chóp dù 2021.pdf",
-    "id": 3797194436,
+    "id": 1103,
     "data": [
         {
-            "file_name": "example_name",
-            "number_page": "1-2",
-            "type": "example_type"
+            "file_name": "Thư mời thương thảo",
+            "number_page": "3, 17",
+            "type": "Thư mời"
+        },
+        {
+            "file_name": "Tờ trình đề nghị chỉ đinh thầu số 01",
+            "number_page": "4-5",
+            "type": "Tờ trình"
+        },
+        {
+            "file_name": "Quyết định chỉ định nhà thầu",
+            "number_page": "6-7",
+            "type": "Quyết định"
+        },
+        {
+            "file_name": "Báo cáo thẩm định",
+            "number_page": "8-12",
+            "type": "Báo cáo"
+        },
+        {
+            "file_name": "Quyết định phê duyệt ",
+            "number_page": "13-16",
+            "type": "Quyết định"
+        },
+        {
+            "file_name": "Biên bản thương thảo hợp đồng",
+            "number_page": "18-29",
+            "type": "Biên bản"
+        },
+        {
+            "file_name": "Hợp đồng thi công xây dựng",
+            "number_page": "30-54",
+            "type": "Hợp đồng"
+        },
+        {
+            "file_name": "Bản vẽ hoàn công",
+            "number_page": "55-72",
+            "type": "Bản vẽ hoàn công"
+        },
+        {
+            "file_name": "Biên bản nghiệm thu",
+            "number_page": "73-80",
+            "type": "Biên bản"
         }
     ]
 }
