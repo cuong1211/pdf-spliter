@@ -1,11 +1,51 @@
 {
-    "docs_name": "hồ sơ hoàn công bu lơ.PDF",
-    "id": 1160,
-    "data": [
-        {
-            "file_name": "example_name",
-            "number_page": "1-2",
-            "type": "example_type"
-        }
-    ]
+  "docs_name": "hồ sơ hoàn công bu lơ.PDF",
+  "id": 1160,
+  "data": [
+    {
+      "file_name": "Thông báo kết quả kiểm tra công tác nghiệm thu ",
+      "number_page": "2-3",
+      "type": "Thông báo"
+    },
+    {
+      "file_name": "Báo cáo về chất lượng xây dựng công trình",
+      "number_page": "12-29",
+      "type": "Báo cáo"
+    },
+    {
+      "file_name": "Quyết định phê duyệt",
+      "number_page": "30-39, 71-85, 117-118",
+      "type": "Quyết định"
+    },
+    {
+      "file_name": "Nhiệm vụ khảo sát, thiết kế",
+      "number_page": "40-49",
+      "type": "Hồ sơ"
+    },
+    {
+      "file_name": "Hợp đồng tư  vấn khảo sát",
+      "number_page": "50-68",
+      "type": "Hợp đồng"
+    },
+    {
+      "file_name": "Hợp đồng thi công xây dựng",
+      "number_page": "86-116",
+      "type": "Hợp đồng"
+    },
+    {
+      "file_name": "Biên bản kiểm tra điều kiện khởi công",
+      "number_page": "119-123",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Hợp đồng nguyên tắc",
+      "number_page": "127-128",
+      "type": "Hợp đồng"
+    },
+    {
+      "file_name": "Biên bản nghiệm thu",
+      "number_page": "129-423",
+      "type": "Biên bản"
+    }
+  ]
 }

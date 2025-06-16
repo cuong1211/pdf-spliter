@@ -1,11 +1,66 @@
 {
-    "docs_name": "hồ sơ hoàn công Cống đá.PDF",
-    "id": 2259,
-    "data": [
-        {
-            "file_name": "example_name",
-            "number_page": "1-2",
-            "type": "example_type"
-        }
-    ]
+  "docs_name": "hồ sơ hoàn công Cống đá.PDF",
+  "id": 2259,
+  "data": [
+    {
+      "file_name": "Báo cáo tư vấn giám sát kiểm định xây dựng và chất lượng công việc xây dựng",
+      "number_page": "19-34",
+      "type": "Báo cáo"
+    },
+    {
+      "file_name": "Quyết định phê duyệt",
+      "number_page": "35-36, 73-79, 94-98",
+      "type": "Quyết định"
+    },
+    {
+      "file_name": "Hợp đồng thi công xây dựng",
+      "number_page": "37-70, 80-81",
+      "type": "Hợp đồng"
+    },
+    {
+      "file_name": "Giấy ủy quyền",
+      "number_page": "71",
+      "type": "Tài liệu"
+    },
+    {
+      "file_name": "Biên bản giao nhận mặt bằng xây dựng",
+      "number_page": "89-90",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Tờ trình",
+      "number_page": "91-93",
+      "type": "Tài liệu"
+    },
+    {
+      "file_name": "Phụ lục khối lượng hoàn thành",
+      "number_page": "99-102",
+      "type": "Tài liệu"
+    },
+    {
+      "file_name": "Biên bản xử lý kỹ thuật",
+      "number_page": "104,106",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Biên bản kiểm tra điều kiện khởi công",
+      "number_page": "110-111",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Biên bản kiểm tra công tác quản lý chất lượng",
+      "number_page": "112-113",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Chứng chỉ vật tư và kết quả thí nghiệm",
+      "number_page": "114-206",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Biên bản nghiệm thu",
+      "number_page": "207-507",
+      "type": "Biên bản"
+    }
+  ]
 }

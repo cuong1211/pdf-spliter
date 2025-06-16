@@ -3,9 +3,14 @@
     "id": 2260,
     "data": [
         {
-            "file_name": "example_name",
-            "number_page": "1-2",
-            "type": "example_type"
+            "file_name": "Báo cáo kinh tế kỹ thuật",
+            "number_page": "1-23",
+            "type": "Báo cáo"
+        },
+        {
+            "file_name": "Thiết kế bản vẽ thi công",
+            "number_page": "24-76",
+            "type": "Bản vẽ hoàn công"
         }
     ]
 }

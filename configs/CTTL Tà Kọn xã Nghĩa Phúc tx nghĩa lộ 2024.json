@@ -1,11 +1,51 @@
 {
-    "docs_name": "CTTL Tà Kọn xã Nghĩa Phúc tx nghĩa lộ 2024.pdf",
-    "id": 2199,
-    "data": [
-        {
-            "file_name": "example_name",
-            "number_page": "1-2",
-            "type": "example_type"
-        }
-    ]
+  "docs_name": "CTTL Tà Kọn xã Nghĩa Phúc tx nghĩa lộ 2024.pdf",
+  "id": 2199,
+  "data": [
+    {
+      "file_name": "Thông báo kiểm quả kiểm tra công tác nghiệm thu",
+      "number_page": "1-5",
+      "type": "Thông báo"
+    },
+    {
+      "file_name": "Biên bản kiểm tra công tác nghiệm thu",
+      "number_page": "6-11",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Báo cáo hoàn thành công trình xây dựng",
+      "number_page": "12-17",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Quyết định phê duyệt",
+      "number_page": "19",
+      "type": "Quyết định"
+    },
+    {
+      "file_name": "Tờ trình đề nghị chấp thuận tiến độ, biện pháp thi công",
+      "number_page": "20",
+      "type": "Tờ trình"
+    },
+    {
+      "file_name": "Thuyết minh biện pháp tổ chức thi công",
+      "number_page": "21-71",
+      "type": "Tài liệu"
+    },
+    {
+      "file_name": "Kế hoạch kiểm tra, nghiệm thu công việc xây dựng",
+      "number_page": "72-82",
+      "type": "Tài liệu"
+    },
+    {
+      "file_name": "Kế hoạch và biện pháp quản lý chất lượng công trình",
+      "number_page": "83-101",
+      "type": "Tài liệu"
+    },
+    {
+      "file_name": "Kế hoạch tổng hợp về an toàn",
+      "number_page": "102-139",
+      "type": "Tài liệu"
+    }
+  ]
 }
