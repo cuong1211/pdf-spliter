@@ -1,11 +1,71 @@
 {
-    "docs_name": "Hồ sơ hoàn công cụm công trình thủy lợi Đầm Giồ-Tam Gianh-Dộc Mí_0001.pdf",
-    "id": 4151,
-    "data": [
-        {
-            "file_name": "example_name",
-            "number_page": "1-2",
-            "type": "example_type"
-        }
-    ]
+  "docs_name": "Hồ sơ hoàn công cụm công trình thủy lợi Đầm Giồ-Tam Gianh-Dộc Mí_0001.pdf",
+  "id": 4151,
+  "data": [
+    {
+      "file_name": "Quyết định phê duyệt",
+      "number_page": "1-13",
+      "type": "Quyết định"
+    },
+    {
+      "file_name": "Hợp đồng thi công xây dựng",
+      "number_page": "14-44",
+      "type": "Hợp đồng"
+    },
+    {
+      "file_name": "Quyết định thành lập",
+      "number_page": "45-46",
+      "type": "Quyết định"
+    },
+    {
+      "file_name": "Báo cáo về chất lượng công trình",
+      "number_page": "47-49",
+      "type": "Báo cáo"
+    },
+    {
+      "file_name": "Hợp đồng kiểm nghiệm vật liệu xây dựng",
+      "number_page": "50-51",
+      "type": "Hợp đồng"
+    },
+    {
+      "file_name": "Biên bản kiểm tra công tác quản lý chất lượng",
+      "number_page": "52-53",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Biên bản bàn giao mặt bằng ",
+      "number_page": "54-55",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Biên bản kiểm tra điều kiện khởi công",
+      "number_page": "56",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Biên bản kiểm tra cơ tuyển trước khi khởi công công trình",
+      "number_page": "57",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Phiếu kiểm tra cao dạc và kết quả thử nghiệm",
+      "number_page": "58-104",
+      "type": "Tài liệu"
+    },
+    {
+      "file_name": "Biện pháp tổ chức thi công",
+      "number_page": "105-154",
+      "type": "Tài liệu"
+    },
+    {
+      "file_name": "Biên bản xác định cự ly vận chuyển vật liệu",
+      "number_page": "155-156",
+      "type": "Biên bản"
+    },
+    {
+      "file_name": "Hồ sơ nghiệm thu",
+      "number_page": "157-293",
+      "type": "Hồ sơ"
+    }
+  ]
 }
